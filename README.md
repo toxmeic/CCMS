@@ -61,6 +61,11 @@ npm install
 npm start
 ```
 
+## Admin login
+
+admin@gmail.com
+password:1234
+
 ## Default Ports
 
 Frontend:
